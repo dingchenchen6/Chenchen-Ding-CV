@@ -35,9 +35,9 @@
 4. Ding, C., Liu, J., Li, C., & Jiang, Z. (2022). Probable extirpation of the hog deer from China: implications for conservation. Oryx, 56(3), 360-366.[https://doi.org/10.1017/S0030605321000016]
 5. He, J., Lin, S., Ding, C., Yu, J., & Jiang, H. (2021). Geological and climatic histories likely shaped the origins of terrestrial vertebrates endemic to the Tibetan Plateau. Global Ecology and Biogeography, 30(5), 1116-1128. [https://doi.org/10.1111/geb.13286]
 6. Li, N., Ding, C. C., Cao, D. D., Chu, H. J., Qi, Y. J., Li, C. W., ... & Jiang, Z. G. (2020). Avian species census, richness patterns and faunal composition in the Altay region, China. 28, 401-411. [http://doi.org/10.17520/biods.2019023]
-7. Ding, C., Hu, Y., Li, C., Jiang, Z. (2018). Distribution and habitat suitability assessment of the gaur Bos gaurus in China. Biodiversity Science, 26, 951-961. [10.17520/biods.2018012]
+7. Ding, C., Hu, Y., Li, C., Jiang, Z. (2018). Distribution and habitat suitability assessment of the gaur Bos gaurus in China. Biodiversity Science, 26, 951-961. [http://dot.org/10.17520/biods.2018012]
 
-## 🏆 科研项目 (Projects)
+## 📂 科研项目 (Projects)
 
 * 北京市自然科学青年基金 (2026-2028)
 
