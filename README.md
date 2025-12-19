@@ -1,5 +1,4 @@
-# Chenchen-Ding-CV
-CV
+
 # 丁晨晨 (Chenchen Ding, PhD)
 **北京大学 - IIASA 联合培养博士后研究员**
 
